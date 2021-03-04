@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Complete Robot">0d5929fb2f6620108349e83df699b6d4</sc_cat_item>
+        <sc_category display_value="Role Delegation">496a3a7e0a0a0bc00089b39df14eb56e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 09:16:31</sys_created_on>
+        <sys_id>d9a92dfb2f6620108349e83df699b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Role Delegation.Complete Robot</sys_name>
+        <sys_package display_value="my-app" source="x_592863_my_app">eb4f64372fe220108349e83df699b698</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my-app">eb4f64372fe220108349e83df699b698</sys_scope>
+        <sys_update_name>sc_cat_item_category_d9a92dfb2f6620108349e83df699b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 09:16:31</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
